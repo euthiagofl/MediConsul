@@ -1,3 +1,4 @@
+Link do figma com a paleta de cores: https://www.figma.com/design/5nUPUlqQ21PcmtgNO9bFhg/Sem-t%C3%ADtulo?node-id=0-1&t=FTsI0tdPrA4xadcX-1
 ### Cores Primárias
 
 ```css
